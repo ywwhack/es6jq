@@ -1,0 +1,32 @@
+{
+  "name": "es6jq",
+  "version": "1.0.0",
+  "description": "use es6 to write a handy jq",
+  "main": "es6Jq.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "co": "^4.6.0",
+    "babel-loader": "^5.3.2",
+    "babel-core": "^5.8.25",
+    "webpack": "^1.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ywwhack/es6jq.git"
+  },
+  "keywords": [
+    "jq",
+    "es6",
+    "module"
+  ],
+  "author": "ywwhack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ywwhack/es6jq/issues"
+  },
+  "homepage": "https://github.com/ywwhack/es6jq#readme"
+}
